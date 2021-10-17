@@ -1,12 +1,9 @@
 # Hi there!
-:notebook: Na caminhada para aprender PHP orientado a boletos
+:notebook: Na caminhada para ser DevOps (Ou trabalhar com segurança, ainda não decidi)
 
 # Quem sou eu
 :grin: Meu nome é Lucas Costa. Eu vivo em São Paulo, Brasil. </br>
-:computer: Meu maior objetivo é poder trabalhar com programação back-end e devolver para a comunidade He4rt tudo de bom que já me proporcionaram.
-
-Inclusive, caso você não conheça eles: </br>
-[![Clica aqui pra conhecer a melhor comunidade de devs](https://avatars.githubusercontent.com/u/47680810?s=200&v=4)](https://github.com/he4rt)</br>
+:computer: Trabalho com Suporte Técnico na SPI Integradora, cuidando de toda a Infra, máquina virtual, Active Directory
 
 O que eu sei
 ---

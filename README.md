@@ -3,7 +3,7 @@
 
 # Quem sou eu
 :grin: Meu nome é Lucas Costa. Eu vivo em São Paulo, Brasil. </br>
-:computer: Trabalho com Suporte Técnico na SPI Integradora, cuidando de toda a Infra, máquina virtual, Active Directory
+:computer: Trabalho com NOC na JBQ.Global, cuidando do monitoramento e investigação de erros
 
 O que eu sei
 ---

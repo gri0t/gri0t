@@ -1,5 +1,5 @@
 # Hi there!
-:notebook: Na caminhada para ser DevOps (Ou trabalhar com segurança, ainda não decidi)
+:notebook: Na caminhada para ser desenvolvedor web!
 
 # Quem sou eu
 :grin: Meu nome é Lucas Costa. Eu vivo em São Paulo, Brasil. </br>

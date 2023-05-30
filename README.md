@@ -2,7 +2,7 @@
 :notebook: Na caminhada para ser desenvolvedor web!
 
 # Quem sou eu
-:grin: Meu nome é Lucas Costa. Eu vivo em São Paulo, Brasil. </br>
+:grin: Meu nome é Lucas Bomfim. Eu vivo em São Paulo, Brasil. </br>
 :computer: Trabalho com NOC na JBQ.Global, cuidando do monitoramento e investigação de erros
 
 O que eu sei

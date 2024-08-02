@@ -1,13 +1,8 @@
 # Hi there!
-:notebook: Na caminhada para ser desenvolvedor web!
+:notebook: Querendo hackear umas coisas por ai
 
 # Quem sou eu
 :grin: Meu nome é Lucas Bomfim. Eu vivo em São Paulo, Brasil. </br>
-:computer: Trabalho com NOC na JBQ.Global, cuidando do monitoramento e investigação de erros
-
-O que eu sei
----
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/php/php-original.svg" alt="PHP Logo" width="100" height="100"/><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original-wordmark.svg" alt="Python Logo" width="100" height="100"/>
 
 ---
 
